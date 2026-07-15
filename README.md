@@ -1,20 +1,16 @@
-### Hi there 👋
+### Hey there! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcbed&layout=compact&hide=Matlab,C,javascript,html,LabVIEW,ProLog,objective-c,M,OpenEdge%20ABL,Batchfile,Perl,Roff,Jupyter%20Notebook,TCL,TLA,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&langs_count=8&hide_title=false&theme=transparent&show_icons=true&include_all_commits=false,is_fork=false)
+I'm a roboticist and CTO/co-founder of [Asterion Robotics](https://github.com/asterion-robotics) — we build robotics software for industrial and medical applications.
 
-![](https://visitor-badge.glitch.me/badge?page_id=mcbed.mcbed)
+Should you need to reach me:  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.bednarczyk@asterion-robotics.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/maciej-bednarczyk-phd-755b62b4)
 
-<!--
-**mcbed/mcbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Main languages:**  
+[![Langs](https://skillicons.dev/icons?i=cpp,py,bash&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+**Main frameworks & tools:**  
+[![Tools](https://skillicons.dev/icons?i=ros,docker,linux,git,github&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**GitHub stats:**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mcbed&layout=donut&hide=prs&langs_count=7)
