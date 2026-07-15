@@ -11,6 +11,3 @@ Should you need to reach me:
 
 **Main frameworks & tools:**  
 [![Tools](https://skillicons.dev/icons?i=ros,docker,linux,git,github&theme=light)](https://skillicons.dev)
-
-**GitHub stats:**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mcbed&layout=donut&hide=prs&langs_count=7)
